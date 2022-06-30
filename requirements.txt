@@ -1,0 +1,4 @@
+uiautomator2~=2.16.15
+PyYAML~=6.0
+pymongo~=4.1.1
+pure-python-adb
